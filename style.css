@@ -252,7 +252,7 @@ p {
 
 /* home intro */
 .home-intro {
-    background: url(../images/bg-intro.png), #f8f5ff;
+    background: url(bg-intro.png), #f8f5ff;
     background-repeat: no-repeat;
     padding: 130px 0 150px !important;
     background-size: 58%;
